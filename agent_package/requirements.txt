@@ -1,0 +1,14 @@
+openai>=1.0.0
+pydantic>=2.0.0
+mcp
+python-dotenv
+agno
+crewai
+langgraph
+openai
+streamlit
+duckduckgo-search
+requests
+pandas
+twine
+pytest

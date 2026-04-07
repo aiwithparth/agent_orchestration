@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: agentic-team-orchestrator
+Version: 0.3.3
+Summary: A JIT Agent Factory that manifests multi-agent teams using Agno, LangGraph, and CrewAI on the fly.
+Author-email: Parth Bisht <parth@example.com>
+Project-URL: Homepage, https://github.com/parthbisht/agentic-team-orchestrator
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: streamlit
+Requires-Dist: openai
+Requires-Dist: duckduckgo-search
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: agno
+Requires-Dist: crewai
+Requires-Dist: langgraph
+Dynamic: license-file
+
+# 🚀 JIT Agentic Team Orchestrator
+
+**Understand. Manifest. Architect.**
+
+The `agentic-team-orchestrator` is a Meta-Agent platform that dynamically manifests specialized multi-agent teams on-the-fly based on a user mission.
+
+## 🌟 Key Features
+- **Dynamic Framework Selection**: Automatically picks the best engine (**Agno, LangGraph, CrewAI, AutoGen**) for your task.
+- **JIT Tool Generation**: Generates real, functional Python tools using `duckduckgo_search` instead of mock logic.
+- **Specialized Team Planner**: Designs Roles, Goals, and Workflows specifically for your mission.
+- **Wonderful UI Visualization**: A Streamlit-based dashboard to visualize agent roles, mission strategy, and generated code.
+
+## 🚀 Quick Start
+```bash
+pip install agentic-team-orchestrator
+agentic-factory
+```
+
+## 🛠️ Performance
+- Architect missions in seconds.
+- Manifest complete framework-based source codes instantly.
+- Toggle between functional automation and strategic planning.
+
+## 📜 License
+MIT

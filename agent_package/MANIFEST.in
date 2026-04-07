@@ -1,0 +1,7 @@
+# MANIFEST.in
+include README.md
+include LICENSE
+recursive-exclude * .env
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
+exclude .env

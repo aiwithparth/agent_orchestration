@@ -1,0 +1,8 @@
+streamlit
+openai
+duckduckgo-search
+requests
+python-dotenv
+agno
+crewai
+langgraph

@@ -1,0 +1,2 @@
+[console_scripts]
+agentic-factory = agentic_team_orchestrator.cli:main
